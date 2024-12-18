@@ -1,0 +1,10 @@
+*
+!README.md
+!README_fa.md
+!_worker.js
+!docs/
+!docs/**
+!.github/
+!.github/**
+!src/
+!src/**
